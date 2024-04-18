@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Soon;Angela;;;
+FN: Angela Soon 
+ORG:Braxton Capital Pte Ltd;
+TITLE:Associate Director
+EMAIL;type=INTERNET;type=WORK;type=pref:braxton.com.sg
+TEL;type=WORK;type=VOICE:+6597688500
+item1.ADR;type=WORK;type=pref:;;137 Telok Ayer Street\, 08-01;;;068602;Singapore
+item1.X-ABADR:sg
+item2.URL;type=pref:braxton.com.sg
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
